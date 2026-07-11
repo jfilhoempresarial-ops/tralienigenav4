@@ -80,3 +80,17 @@
     font-size: 10px;
   }
 }
+.banner-img {
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .banner-img {
+    max-height: 140px;
+  }
+}
