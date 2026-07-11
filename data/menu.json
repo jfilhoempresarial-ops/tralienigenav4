@@ -1,0 +1,15 @@
+[
+  { "id": "mecanicos", "emoji": "🔧", "titulo": "Mecânicos", "descricao": "Oficinas e serviços", "link": "#", "destaque": false },
+  { "id": "postos", "emoji": "⛽", "titulo": "Postos", "descricao": "Combustível e conveniência", "link": "#", "destaque": true },
+  { "id": "borracharia", "emoji": "🛞", "titulo": "Borracharia", "descricao": "Pneus e alinhamento", "link": "#", "destaque": false },
+  { "id": "restaurantes", "emoji": "🍽️", "titulo": "Restaurantes", "descricao": "Comida boa e descanso", "link": "#", "destaque": false },
+  { "id": "pontosapoio", "emoji": "🏪", "titulo": "Pontos de Apoio", "descricao": "Estacionamento e estrutura", "link": "#", "destaque": false },
+  { "id": "vagas", "emoji": "💼", "titulo": "Vagas de Emprego", "descricao": "Oportunidades para motoristas", "link": "#", "destaque": false },
+  { "id": "eventos", "emoji": "🎪", "titulo": "Eventos", "descricao": "Encontros e feiras", "link": "#", "destaque": false },
+  { "id": "cursos", "emoji": "📚", "titulo": "Cursos", "descricao": "Capacitação e atualização", "link": "#", "destaque": false },
+  { "id": "noticias", "emoji": "📰", "titulo": "Notícias", "descricao": "Informação do setor", "link": "#", "destaque": false },
+  { "id": "radio", "emoji": "📻", "titulo": "Rádio", "descricao": "Programação ao vivo", "link": "#", "destaque": false },
+  { "id": "avaliacoes", "emoji": "⭐", "titulo": "Avaliações", "descricao": "Compartilhe sua experiência", "link": "#", "destaque": false },
+  { "id": "mais", "emoji": "➕", "titulo": "Mais", "descricao": "Outros serviços", "link": "#", "destaque": false },
+  { "id": "compartilhar", "emoji": "📤", "titulo": "Compartilhar", "descricao": "Divulgue para outros", "link": "#", "destaque": false }
+]
