@@ -2,31 +2,20 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
-    <title>Rede do Caminhoneiro - Utilidade Pública</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rede do Caminhoneiro</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-    <!-- CABEÇALHO -->
     <div id="header-placeholder"></div>
-
-    <!-- BANNERS -->
     <div id="banners-placeholder"></div>
-
-    <!-- MENU PRINCIPAL -->
     <div id="menu-placeholder"></div>
-
-    <!-- FEED DA COMUNIDADE -->
     <div class="feed-aviso">
         <h4>📢 Última avaliação</h4>
         <p><strong>Posto do Zé - BR 116:</strong> Diesel R$ 5,72, chuveiro quente. Nota 9/10!</p>
         <small>Há 2 horas - João Silva</small>
     </div>
-
-    <!-- RODAPÉ -->
     <div id="footer-placeholder"></div>
-
     <script src="js/script.js"></script>
 </body>
 </html>
