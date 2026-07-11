@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imagem": "https://via.placeholder.com/800x300/ff7f00/fff?text=Promoção+Diesel",
+    "link": "https://exemplo.com/promocao-diesel",
+    "alt": "Promoção Diesel"
+  },
+  {
+    "id": 2,
+    "imagem": "https://via.placeholder.com/800x300/0077be/fff?text=Pneus+20%+OFF",
+    "link": "https://exemplo.com/oferta-pneus",
+    "alt": "Oferta Pneus"
+  },
+  {
+    "id": 3,
+    "imagem": "https://via.placeholder.com/800x300/cc0000/fff?text=Alerta+BR-101",
+    "link": "https://exemplo.com/alerta-br101",
+    "alt": "Alerta BR-101"
+  }
+]
