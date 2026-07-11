@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "imagem": "https://via.placeholder.com/800x300/ff7f00/fff?text=Promoção+Diesel",
-    "link": "https://exemplo.com/promocao-diesel",
-    "alt": "Promoção Diesel"
+    "imagem": "https://acdn-us.mitiendanube.com/stores/004/263/853/products/1-b9dac883f6c23f064a17381695757086-1024-1024.webp",
+    "link": "https://lojadoalienigena.com.br/produtos/blusa-alien-preta-azul-rota-222/",
+    "alt": "Blusa Alien Preta Azul Rota 222"
   },
   {
     "id": 2,
-    "imagem": "https://via.placeholder.com/800x300/0077be/fff?text=Pneus+20%+OFF",
-    "link": "https://exemplo.com/oferta-pneus",
-    "alt": "Oferta Pneus"
+    "imagem": "https://acdn-us.mitiendanube.com/stores/004/263/853/products/d_nq_np_2x_785483-mlb102088005455_122025-f-touca-de-pelucia-com-led-mexe-orelha-gorro-frio-capuz-bichos-b347b799511bd1485517728091255732-1024-1024.webp",
+    "link": "https://lojadoalienigena.com.br/produtos/touca-pelucia/",
+    "alt": "Touca de Pelúcia"
   },
   {
     "id": 3,
-    "imagem": "https://via.placeholder.com/800x300/cc0000/fff?text=Alerta+BR-101",
-    "link": "https://exemplo.com/alerta-br101",
-    "alt": "Alerta BR-101"
+    "imagem": "https://acdn-us.mitiendanube.com/stores/004/263/853/products/1000551305-af657e3e5a80502ad317582131782842-1024-1024.webp",
+    "link": "https://lojadoalienigena.com.br/produtos/touca-marrom-rota-222/",
+    "alt": "Touca Marrom Rota 222"
   }
 ]
