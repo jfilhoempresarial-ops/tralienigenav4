@@ -1,15 +1,20 @@
-.header-sub {
-  background: #2b2b2b;
-  padding: 10px 20px;
-  text-align: center;
-  font-size: 16px;
-  border-bottom: 2px solid var(--cor-primaria);
-  color: #fff;
-}
-.subtitle {
-  font-size: 14px;
-  font-weight: 300;
+.banner-slide a {
   display: block;
-  letter-spacing: 3px;
-  color: #ffd699;
+  width: 100%;
+}
+
+.banner-img {
+  width: 100%;
+  height: auto;
+  max-height: 250px;
+  object-fit: cover; /* corta a imagem para preencher sem distorcer */
+  border-radius: 8px;
+  display: block;
+}
+
+/* Ajuste para telas pequenas (celular) */
+@media (max-width: 600px) {
+  .banner-img {
+    max-height: 150px;
+  }
 }
